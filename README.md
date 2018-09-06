@@ -1,2 +1,2 @@
-# data_analyst_nanodegree
+# Data Analyst Nanodegree
 Data Analyst Projects
